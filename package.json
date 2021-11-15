@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.39"
+  }
+}
